@@ -1,7 +1,7 @@
 ---
 layout: default
 title: § Is There a Relationship Between the Number of Female Students Who Were Cyberbullied and the Number of Female Students Who Seriously Considered Attempting Suicide?  
-parent: C
+parent: I 
 has_children: true
 nav_order: 9790524
 ---
