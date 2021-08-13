@@ -160,7 +160,7 @@ Yeganeh, H. (2019). An analysis of emerging trends and transformations in global
 #### Table of Contents
 {: .no_toc}
 
-<ul><li> <a href="/docs/breaches/impact-of-information-breaches-on-health-care-records-1/">Chapter 1 - Introduction to the Study</a></li><li> <a href="/docs/breaches/impact-of-information-breaches-on-health-care-records-2/">Chapter 2 - Literature Review</a></li><li> <a href="/docs/breaches/impact-of-information-breaches-on-health-care-records-3/">Chapter 3 - Research Method</a></li><li> <a href="/docs/breaches/impact-of-information-breaches-on-health-care-records-4/">Chapter 4 - Results</a></li><li> <a href="/docs/breaches/impact-of-information-breaches-on-health-care-records-5/">Chapter 5 - Discussion, Conclusions, and Recommendations</a></li><li> <a href="/docs/breaches/impact-of-information-breaches-on-health-care-records-6/">References</a></li></ul>
+<ul><li> <a href="/docs/I/impact-of-information-breaches-on-health-care-records-1/">Chapter 1 - Introduction to the Study</a></li><li> <a href="/docs/I/impact-of-information-breaches-on-health-care-records-2/">Chapter 2 - Literature Review</a></li><li> <a href="/docs/I/impact-of-information-breaches-on-health-care-records-3/">Chapter 3 - Research Method</a></li><li> <a href="/docs/I/impact-of-information-breaches-on-health-care-records-4/">Chapter 4 - Results</a></li><li> <a href="/docs/I/impact-of-information-breaches-on-health-care-records-5/">Chapter 5 - Discussion, Conclusions, and Recommendations</a></li><li> <a href="/docs/I/impact-of-information-breaches-on-health-care-records-6/">References</a></li></ul>
 
 ***
 </div>
