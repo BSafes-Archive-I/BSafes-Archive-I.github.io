@@ -2,7 +2,6 @@
 layout: default
 title: § Industry of Anonymity - Inside the Business of Cybercrime, by Jonathan Lusthaus 
 parent: I 
-has_children: true
 nav_order: 980001500 
 ---
 <style>
