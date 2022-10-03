@@ -1,0 +1,104 @@
+---
+layout: default
+title: Solutions to Closing the Gap
+parent: § It Takes the University to Close the Equity Gap 
+grand_parent: I
+nav_order: 30 
+---
+<style>
+.dont-break-out {
+  /* These are technically the same, but use both */
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+
+     -ms-word-break: break-all;
+  /* This is the dangerous one in WebKit, as it breaks things wherever */
+  word-break: break-all;
+  /* Instead use this non-standard one: */
+  word-break: break-word;
+}
+
+.youtube-container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.youtube-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+</style>
+
+<div class="dont-break-out" markdown="1">
+
+1. TOC
+{:toc}
+
+## Solutions to Closing the Gap
+This section describes possible solutions for closing the equity gap for faculty and academic support staff as well as by administration.
+
+### Faculty & Academic Support Staff Solutions
+**Reflect on pedagogical practices.** Instructors and academic support staff who reflect on their pedagogical practices related to inclusivity create environments within which all students can thrive. Unfortunately, not all instructors or academic support staff engage in such reflection, which may result in the deficit perspective and blaming students for equity gaps. For example, a principal in Flores’ (2018) case study engaged in “heated” discussions with her teaching staff in order to reconstruct her teachers’ mindset and help them to see beyond a deficit perspective and to their own accountability in the success of their students: “The teachers like to tell war stories about these kids and blame every external factor in the world [for their low achievement], except for the fact that . . . it’s our job to teach them” (p. 357). As faculty and academic support staff, it IS our job to teach students. Students cannot learn and flourish in an environment in which they perceive that they do not belong. Closing the equity gap means creating an environment that is inclusive for all students, which indicates a need for instructors and academic support staff to reflect on their pedagogical practices. This starts with an assessment of one’s current classroom or educational environment.
+
+**Assess the environment.** Inviting an objective “observer” into the classroom or educational environment can help to assess the level of inclusivity. Many colleges and universities have Centers forTeaching and Learning that offer observational services, including student observations (i.e., Students Consulting on Teaching or SCOT). Once an observer is identified, ask him/her to payattention to patterns related to the participation of marginalized groups. Abraham et al. (2021) offer a list of questions that should be answered in the assessment of inclusivity in peer-facilitated academic support sessions. These same questions apply to the classroom: “Were there gender identity or racial patterns of the students called upon? Were there gender identity or racial patterns of the students who talked? Which students talked during these sessions and how often? Do students sit in small groups of similar gender identity and race? What actions did the facilitator attempt to encourage participation by all students?” (p. 9). Answers to these questions may help to provide a baseline from which an instructor or academic support leader can become aware of any problematic patterns related to inclusivity.
+
+**Never assume that “it’s easy” or boast about abilities.** Content that comes naturally to some students or was reinforced in the educational experiences of some students may not be content that is “easy” for all students.Telling students that a particular course concept is “easy” gives them the message that they should fully understand and have no questions. It shuts down communication because students who don’t understand the concept feel isolated and resist seeking help. It also reduces the approachability of the instructor or facilitator. For example, in Frye et al. (2021)’s study of the experience of underrepresented minorities in peer-facilitated workshop groups, one student participant, Joel, expressed feeling discouraged by his condescending peer leader: “The way [the PLTL Workshop leader] was showing the material felt like he was super smart and he was way beyond the material that we were at so it just felt kind of like he was above us and he was looking down on us, which was kind of discouraging” (p. 13).
+
+In their synthesis of the literature to define antiracist activities and policies for student-led study groups, Abraham et al. (2021) suggest that peer leaders should “avoid words and behaviors that seek to demonstrate their own academic prowess and social capital,” including the following: grade they earned in the course they are supporting, their standardized exam scores, their enrollment in AP or college-bound courses, and/or their membership in high school or college honor societies. Students are already aware of the abilities of their peer leader and instructors. A reminder of their academic prowess only increases the distance between instructor/academic support staff and student rather than fostering a trusting relationship that enables growth. Instead, it is appropriate and encouraged for instructors and academic support staff to share the challenges they faced as students and the strategies that they found worked for them in problem-solving (Abraham et al., 2021; Frye et al., 2021).
+
+**Don’t compromise rigor**. Although instructors and academic support staff should never assume that concepts are “easy” to all students, that does not mean that they should avoid challenging students. Sometimes instructors equate supporting students with “dumbing down standards.” The two should not be equated with one another, and in fact, it is important for instructors to hold students to high expectations. A school principal in Flores’ (2018) case study describes her experience as a former summer schoolteacher and the expectation to “keep them [Black students] quiet and pass them” (p. 359). Refusing to do so, instead she made the students “work so hard that they are going to hate me so that they would never ever, ever, return to summer school” (p. 359). In other words, she maintained high levels of rigor, and in doing so, offered a counternarrative that challenged the low expectations held by other teachers about Black students. It is appropriate and important for instructors and academic support staff to hold high standards of all of their students and not to single out underrepresented students by expecting less of them. As stated by Kathy Wright in The Public Broadcasting Service (2021) video “Equity in Education”, “it’s important that we don’t love our students to the bottom.” Similarly, Wood (2022) claimed that “no one has ever risen to low expectations.” In other words, although expectations should be grade-level appropriate and aligned to standards, it is important for instructors to challenge students to the best of their ability and to convey their belief that the students can meet those challenges. Why should students believe in themselves and their abilities if instructors do not believe in them?
+
+**Foster collaboration vs. competition.** It is best for instructors and academic support staff to offer collaborative opportunities for growth rather than competitive experiences that may inadvertently cause harm. Academic competitiveness is a dominant cultural value that becomes problematic for underrepresented minorities who have not necessarily had access to the same educational opportunities (Abraham et al., 2021; Frye et al., 2021). Competitive activities between individuals highlighted the lack of preparation of some underrepresented students in Frye et al. (2021); this ultimately resulted in fewer help-seeking behaviors [i.e., such students stopped asking questions or requesting clarification for fear of slowing the progress of the group or being the “only student in the group who needed more time”(p. 9)]. Rather than place students into situations which highlight differences in their educational preparation, instructors and academic support staff can implement and encourage team activities in which students work together to produce a final product.
+
+**Proactively structure group activity.** When instructors assign groupwork, students will often self-segregate—by race, gender,and ability level. This can lead to the marginalization of underrepresented minority students, particularly in predominantly White institutions. Feelings of unease and insecurity can be mitigated when the instructor or peer leader assigns the groups and provides the opportunity to work in smaller groups (i.e., 3-5 students), where students become much more comfortable speaking up and participating (Frye et al., 2021). When the instructor or peer leader assigns the groups, it relieves anxiety for those students who do not know anyone and increases the chance of mixed identity and mixed ability level groups.
+
+**Pay attention to nonverbal cues & use emotional intelligence.** Paying attention to nonverbal cues can help instructors and academic support staff to recognize when a concept is not easy for specific students. An awareness of nonverbal cues indicating confusion can help instructors and staff to address student needs without singling them out (by providing an additional example), and in Frye et al.’s (2021) study, “led to the students feeling a sense of relief from the anxiety of verbalizing their lack of understanding or asking for a slower pace” (p. 15). Moving on and failing to provide another example “can result in the student having difficulty with solving the problem thus making negative personal judgments about themselves. This may result in not returning to the group and perhaps dropping the class altogether due to their perceived incompetence” (Abraham et al., 2021, p. 15). When instructors and academic support staff recognize the struggles of students without publicly calling attention to them, students feel acknowledged, supported, and even motivated to persist; as stated by Ayesha, a student participant in Frye et al. (2021), “If someone is trying to help you not give up, then you have more reason to stick in there” (p. 15). 
+
+Awareness of nonverbal cues is one indication that an instructor or tutor has “emotional intelligence/EI” (Goleman, 2006). Strong EI skills are important in creating inclusive environments. In applying EI, Abraham et al. (2021) suggests an approachable demeanor, the use of empathetic statements when students share personal events, the use of active listening skills, and friendly and engaged body language. It is especially important that instructors and academic support staff avoid expressing surprise when underrepresented students succeed and validate and encourage all students in the same manner (Abraham et al., 2021; Frye et al., 2021).
+
+**Cultivate personal relationships.** As the saying goes, “students won’t care about what you know until they know that you care.” Therefore, it is important that instructors and support staff do whatever they can to foster personal relationships—between students and between student and instructor/staff member. This can be done in several ways: knowing and using students’ names and preferred pronouns, taking time to get to know students as individuals (with initial icebreakers and/or informal communication before and after classes), sending personalized emails, and developing and displaying cultural humility (Abraham et al., 2021; Frye et al., 2021). For example, one student participant in Frye et al. (2021), Brianna, discussed a bad experience with a student leader from a peer-facilitated academic support session who did not take the time to connect with the students: “I just want to reiterate the significance of adding value to one-onone relationships. I think that would have made all the difference. . . it’s nice to get personalized email ‘cause it feels like the person genuinely, it’s like putting in the time and the effort to send something to you directly . . .I think that would have made such a big difference [feeling] like somebody is there to encourage you, somebody is there looking out for you” (p. 20). Wood (2022) calls the use of these sorts of strategies “intrusive practices.” Intrusive practices are the sorts of things that instructors and academic support staff do when they genuinely care about helping students to succeed (i.e., providing a textbook to the student who cannot afford one or reaching out and expressing concern to the students who have not shown up for class or have missed deadlines or who otherwise appear unengaged). When used early and often, intrusive practices can help to motivate students and to keep them on track, contributing to closing equity gaps.
+
+Another way to cultivate personal relationships and to help foster a sense of belonging for all students in an environment is to have and display “cultural humility.” Cultural humility is a “humble and respectful and celebratory attitude toward individuals of other cultures that pushes them to challenge their own cultural biases, recognizing funds of knowledge, and approach learning about other cultures as a lifelong goal and process” (Abraham et al., 2021, p. 14). Cultural humility is exhibited when an instructor or staff member is humble (by revealing his/her own weaknesses), inclusive (through considering the needs of individual students), and sincere (in meeting students where they are) [Frye et al., 2021].
+
+### Administrative Solutions to Closing the Gap
+The solution to closing the equity gap is not to “admit better students,” but to teach and support the students we have! The primary function of the administration is to hold the university community accountable for closing the gap. Through our experiences at MSUM, we assert that the administration can do so by investing in academic support programs to enhance the success of all students; consistently reviewing policies, practices, and procedures to ensure that all students have equitable access to university resources; and ensuring that its workforce reflects the demographics of the student body.
+
+**Offer academic support programs for all students.** One way in which both faculty and administrators can contribute to closing equity gaps is to fund academic support programs open to all students. One program that has found success in closing equity gaps at MSUM is a supplemental instruction program, branded at MSUM as MavPASS (Maverick Peer-Facilitated Academic Support System). Started in just five courses in fall 2019, MavPASS has expanded to support 25 courses and thousands of students.
+
+Performance outcome data (i.e., final course grades) collected through the University’s Institutional Research division reveal positive changes in closing equity gaps, although changes were more modest in the height of the COVID pandemic. See Figure 1 below for the differences in equity gaps between MavPASS attendees and non-attendees over the course of two years. See Figure 2 for an example of gap differences by course between attendees and non-attendees in spring 2021.
+
+**Figure 1. Equity gap of MavPASS attendees & non-attendees.**
+![Figure 1. Equity gap of MavPASS attendees & non-attendees.](https://statics.bsafes.com/images/papers/It-Takes-the-University-to-Close-the-Equity-Gap-fig-1.png)
+
+**Figure 2. Equity gap of MavPASS attendees & non-attendees by course spring 2021.**
+![Figure 2. Equity gap of MavPASS attendees & non-attendees by course spring 2021.](https://statics.bsafes.com/images/papers/It-Takes-the-University-to-Close-the-Equity-Gap-fig-2.png) 
+
+The success of MavPASS in closing equity gaps can be attributed to efforts in hiring a diverse workforce, collaborative work with other service divisions on campus, and attempts made to create and maintain inclusive academic support environments. First, representation is important. Students (especially marginalized groups of students) are far less inclined to seek academic help if they do not see themselves represented in any of these spaces (Abraham et al., 2021; Frye et al., 2021). Therefore, the MavPASS staff made consistent efforts to hire a diverse workforce by nationality and race—a workforce that is at least representative of the student body it serves. In the first semester of the program, 82% of MavPASS Leaders hired were white (along with 12% students of color, 6% international students). Hiring efforts in subsequent semesters have been fruitful since the MavPASS Leaders have been far more representative of the student body (which is 18% students of color and 9% international students)—with 19-23% students of color and 13-14% international students hired each semester.
+
+Another reason for the success of MavPASS in closing equity gaps is the collaboration with other service divisions on the campus. The MavPASS team worked closely not only with Diversity, Equity, and Inclusion and the Global Education department, but also with university advising, the Maverick Success program, and the athletic department. Such collaborations allowed for unique advising opportunities for underrepresented groups in particular; this led to higher levels of participation by students of color (25-40%) and international students (26-46%) than white students (20-31%) in every semester from fall 2019 through spring 2021.
+
+Finally, the MavPASS staff attempted not just to offer academic support but to foster sense of belonging in inclusive spaces. This included welcoming all students to MavPASS sessions to remove any stigma associated with seeking academic help and training leaders to use many of the strategies defined above as pedagogical practices for instructors and academic support staff. Although there is still work to do—in drawing more students to seek support through MavPASS and in creating inclusive spaces where all students feel welcome, the program has offered one promising path to closing equity gaps on the campus.
+
+**Replace problematic policies.** Following analysis of university data, several changes were made to policies, practices, and procedures to address problematic equity gaps. First, we adjusted financial holds so that students were allowed to register for the subsequent semester if they owed the University less than $1,000 (decreased from $100) and committed to work with advisors to develop a repayment plan. Additionally, we changed a policy in place so that students with suspended financial aid would be eligible for tuition waivers for up to one academic year. To reduce the potential for food insecurity of students, we removed unnecessary barriers in place so that students were no longer suspended from the university food plan in the middle of the semester. We also created emergency enrollment grants to help students stay enrolled. Finally, we aligned our academic suspension policy with the other Minnesota State Universities and changed how we offer developmental courses to avoid the delay of graduation and reduce financial impact upon students.
+
+**Hire a diverse workforce.** At MSUM, we understand the importance of having a diverse workforce to help create a more welcoming community. Therefore, our goal is to hire a workforce that reflects the student demographics. To this end, MSUM created an administrative workgroup to look at current employment policies, practices, and procedures that could be hindering the goal of diversifying its workforce. The group examines both recruitment and retention activities. The goal is to have more diverse applicants in the pool, invited for oncampus interviews, and ultimately employed. Based on the recommendations of the workgroup, the University has changed the language in job announcements to reflect the importance of diversity at MSUM and requires a written diversity statement and responses to standardized diversity interview questions from all applicants. Finally, and the most importantly, additional training of hiring officials been implemented to help them better understand their role in diversifying the workforce.
+
+***
+
+#### Table of Contents
+{: .no_toc}
+
+<ul><li> <a href="/docs/I/It-Takes-the-University-to-Close-the-Equity-Gap-1/">
+Defining the Equity Gap: Language Matters</a></li><li> <a href="/docs/I/It-Takes-the-University-to-Close-the-Equity-Gap-2/">
+Roots of the Equity Gap</a></li><li> <a href="/docs/I/It-Takes-the-University-to-Close-the-Equity-Gap-3/">
+Solutions to Closing the Gap</a></li><li> <a href="/docs/I/It-Takes-the-University-to-Close-the-Equity-Gap-4/">
+Conclusion</a></li><li> <a href="/docs/I/It-Takes-the-University-to-Close-the-Equity-Gap-5/">
+References</a></li></ul>
+***
+
+</div>
